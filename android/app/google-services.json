@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976232858282",
+    "project_id": "timestamp-3f055",
+    "storage_bucket": "timestamp-3f055.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976232858282:android:3b98a23728fb80979046d3",
+        "android_client_info": {
+          "package_name": "com.techsnap.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwUho7GyHgbxjrOGcYewT3SSTHcUYxFRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
